@@ -8,6 +8,8 @@ Here's a sample `README.md` file template for running a React app. This file is 
 ```markdown
 # Project Name
 
+React-App-Capstone
+
 A brief description of what your project does and who it's for.
 
 ## Table of Contents
@@ -27,13 +29,13 @@ Follow these steps to install and set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone[ https://github.com/Jaffindurai29/React-App-Capstone.git](https://github.com/Jaffindurai29/React-App-Capstone)
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-repo-name
+   cd React-App-Capstone
    ```
 
 3. **Install the dependencies:**
@@ -124,4 +126,4 @@ If you want to contribute to this project, feel free to open a pull request or i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Replace placeholders like `your-repo-name`, `your-username`, and others with your actual project details. This `README.md` should provide clear instructions for anyone looking to set up, run, or contribute to your React app.
+Replace placeholders like `React-App-Capstone`, `Jaffindurai29`, and others with your actual project details. This `README.md` should provide clear instructions for anyone looking to set up, run, or contribute to your React app.
